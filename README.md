@@ -10,7 +10,7 @@ The analysis integrates multiple datasets representing different aspects of ride
 - Neighborhood Data – Aggregated trip counts by Chicago neighborhoods
 - Competitor Data – Trip volume information from existing taxi and ride-sharing companies
 - Weather Data – Weather conditions affecting trip duration and demand
-These datasets were cleaned, validated, and merged to create a unified analytical framework.
+These datasets were cleaned, validated, and merged to create a unified analytical framework
 
 ## ⚙️ Methodology
 The project follows a structured data analytics workflow:
